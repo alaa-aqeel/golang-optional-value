@@ -2,6 +2,11 @@
 This package provides a way to work with optional values in Go. It allows you to create, set and get values of any type in a safe way, without having to worry about nil pointer errors. It also provides a way to create values with default values, which can be useful when working with JSON data.
 
 
+# Install 
+```
+$ go get github.com/alaa-aqeel/golang-optional-value
+```
+
 # Example
 ### Base Example 
 ```golang
